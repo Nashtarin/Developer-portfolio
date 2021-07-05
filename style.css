@@ -1,0 +1,31 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 51px;
+}
+.tarin{
+    color:crimson;
+}
+section{
+    display:flex;
+}
+.half{
+    width: 50%;
+    padding-left:5%;
+}
+.half img{
+    width:80%;
+}
+.hola{
+    color:white;
+    background-image: linear-gradient(rgb(207, 103, 193),pink);
+    padding:11px 31px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
